@@ -85,14 +85,14 @@ You have a Global Search which searches pretty much anything in your ContentBox.
 
 Our about page is very useful. Apart from your build information it contains keyboard shortcuts!
 ContentBox has a lot of keyboard shortcuts available for you and you can very easily navigate throughout it once you memorize them.
-Also, for you module developers we also have an API based on a jquery java script library. And you can very easily do data biding for your own shortcuts so if you want to offer you own keyboard shortcuts it’s very easy.
+Also, for module developers, we also have an API based on the jQuery JavaScript library. You can add key bindings so if you want to offer you own keyboard shortcuts it’s very easy.
 
 ### Updates
 
 Our sophisticated auto-update system offers 3 ways of getting updates from Ortus Solutions.
 Check for updates:
 We have a Stable Channel which can check against new ContentBox releases.
-We also have a Bleeding Edge Release: all our releases will go in our release cycle so all our releases will be in the bleeding edge channel 1 or 2 weeks before actually making to a stable channel.
+We also have a Bleeding Edge Release: all our releases will go in our release cycle so all our releases will be in the bleeding edge channel 1 or 2 weeks before actually making it to the stable channel.
 
 #### Download Updates:
 
@@ -113,21 +113,21 @@ ContentBox provides many options for managing content, including:
 * Categories which allow you to quickly and easily organize all your content in whatever way you choose
 * An easy-to-use Media Manager which not only provides storage for your documents, images and other assets, but is also integrated into content creation tools to make using media in your content quick and easy.
 
-### Pages
+### Sitemap
 
-Let’s get started with Pages.
-Inside pages on your right panel you see that we have set up filters to filter out the view of the pages.
-You also have Global Actions: Delete Selected, Draft Selected, Publish Selected, Import, Export All and Show All.
+Let’s get started with Sitemap.
+Inside Sitemap on your right panel you see that we have set up filters to filter out the view of the pages.
+You also have Bulk Actions: Delete Selected, Draft Selected, Publish Selected, Import, Export All and Show All.
 
-#### Page Editor
+#### Sitemap Editor
 
-Inside Pages click Create Page and the Page Editor will open.
+Inside Sitemap, click Create Page and the Page Editor will open.
 Name your page by giving it a Title and ContentBox will give you the permalink for the page.
-By default, the Page Editor uses CKeditor for a WYSIWYG editor. ContentBox also offers different other editors that are available in your installation.
+By default, the Page Editor uses CKeditor for a WYSIWYG editor. ContentBox also offers other different editors that are available in your installation.
 
 > **Hint** Remember that editors are programmable so any module developer can actually register new editors in your system.
 
-The Page editor has markup support [button right beside Editor Button]. HTML markup is currently supported by default.
+The Sitemap editor has markup support [button right beside Editor Button]. HTML markup is currently supported by default.
 
 ContentBox’s implementation of CKEditor comes with support for a number of plugins, including:
 
@@ -137,7 +137,7 @@ ContentBox’s implementation of CKEditor comes with support for a number of plu
 * Insert Lorem Ipsum Dolor [T] to create content.
 * Contentbox Widgets
 
-On the right panel you have the Paging Details.
+On the right panel you have the Page Details.
 
 ##### Publishing
 
